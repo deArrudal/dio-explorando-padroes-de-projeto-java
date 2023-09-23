@@ -39,9 +39,6 @@ EXPLORANDO PADRÕES DE PROJETO NA PRÁTICA COM JAVA
 ├── LICENSE
 └── README.md
 ````
-
-### EER models
-
     
 ## Authors
 
